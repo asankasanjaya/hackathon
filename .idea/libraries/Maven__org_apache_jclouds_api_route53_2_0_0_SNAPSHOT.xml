@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.jclouds.api:route53:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/api/route53/2.0.0-SNAPSHOT/route53-2.0.0-20140919.021639-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/api/route53/2.0.0-SNAPSHOT/route53-2.0.0-20140919.021639-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/api/route53/2.0.0-SNAPSHOT/route53-2.0.0-20140919.021639-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

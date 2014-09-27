@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds:jclouds-all:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:rackspace-cloudidentity:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:openstack-keystone:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds:jclouds-core:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: javax.ws.rs:jsr311-api:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject.extensions:guice-assistedinject:3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject:guice:3.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.99soft.guice:rocoto:6.2" level="project" />
+    <orderEntry type="library" name="Maven: javax.annotation:jsr250-api:1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:18.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:openstack-cinder:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:rackspace-clouddns:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:aws-cloudwatch:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:cloudwatch:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:sts:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-cloudblockstorage-us:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-cloudblockstorage-uk:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-clouddns-us:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-clouddns-uk:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-clouddatabases-us:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:openstack-trove:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-clouddatabases-uk:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:aws-sqs:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:sqs:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:aws-sts:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:aws-route53:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:route53:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:ultradns-ws:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:dynect:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds:jclouds-allloadbalancer:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-cloudloadbalancers-uk:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds:jclouds-loadbalancer:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds:jclouds-compute:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds:jclouds-scriptbuilder:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:rackspace-cloudloadbalancers:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-cloudloadbalancers-us:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds:jclouds-allcompute:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:greenhousedata-element-vcloud:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:vcloud:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.jamesmurty.utils:java-xmlbuilder:0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:aws-ec2:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:ec2:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:openstack-nova:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:openstack-nova-ec2:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:byon:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.11" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:cloudservers-us:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.common:openstack-common:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:cloudservers:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:cloudservers-uk:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:cloudsigma:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:bluelock-vcloud-zone01:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:gogrid:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:elasticstack:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:elastichosts-lon-p:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:elastichosts-sat-p:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:elastichosts-lon-b:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:openhosting-east1:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:serverlove-z1-man:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:skalicloud-sdg-my:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:cloudsigma-zrh:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:cloudsigma-lvs:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:go2cloud-jhb1:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:softlayer:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:cloudstack:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:ninefold-compute:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:hpcloud-compute:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-cloudservers-us:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:rackspace-cloudservers-uk:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds:jclouds-allblobstore:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:s3:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds:jclouds-blobstore:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:aws-s3:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:ninefold-storage:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:atmos:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:cloudonestorage:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:azureblob:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.common:azure-common:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:swift:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:cloudfiles:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:cloudfiles-us:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:cloudfiles-uk:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.api:filesystem:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jclouds.provider:hpcloud-objectstorage:2.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: log4j:apache-log4j-extras:1.1" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
+  </component>
+</module>
+

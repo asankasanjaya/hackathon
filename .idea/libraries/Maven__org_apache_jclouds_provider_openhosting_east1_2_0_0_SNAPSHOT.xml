@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.jclouds.provider:openhosting-east1:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/openhosting-east1/2.0.0-SNAPSHOT/openhosting-east1-2.0.0-20140919.023120-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/openhosting-east1/2.0.0-SNAPSHOT/openhosting-east1-2.0.0-20140919.023120-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/openhosting-east1/2.0.0-SNAPSHOT/openhosting-east1-2.0.0-20140919.023120-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

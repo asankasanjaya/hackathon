@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.jclouds.provider:rackspace-cloudservers-uk:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/rackspace-cloudservers-uk/2.0.0-SNAPSHOT/rackspace-cloudservers-uk-2.0.0-20140919.024115-36.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/rackspace-cloudservers-uk/2.0.0-SNAPSHOT/rackspace-cloudservers-uk-2.0.0-20140919.024115-36-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/rackspace-cloudservers-uk/2.0.0-SNAPSHOT/rackspace-cloudservers-uk-2.0.0-20140919.024115-36-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.jclouds.provider:aws-ec2:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/aws-ec2/2.0.0-SNAPSHOT/aws-ec2-2.0.0-20140919.022602-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/aws-ec2/2.0.0-SNAPSHOT/aws-ec2-2.0.0-20140919.022602-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/aws-ec2/2.0.0-SNAPSHOT/aws-ec2-2.0.0-20140919.022602-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

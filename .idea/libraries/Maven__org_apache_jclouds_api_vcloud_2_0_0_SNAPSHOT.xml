@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.jclouds.api:vcloud:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/api/vcloud/2.0.0-SNAPSHOT/vcloud-2.0.0-20140919.015349-39.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/api/vcloud/2.0.0-SNAPSHOT/vcloud-2.0.0-20140919.015349-39-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/api/vcloud/2.0.0-SNAPSHOT/vcloud-2.0.0-20140919.015349-39-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

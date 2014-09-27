@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.jclouds.provider:go2cloud-jhb1:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/go2cloud-jhb1/2.0.0-SNAPSHOT/go2cloud-jhb1-2.0.0-20140919.023304-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/go2cloud-jhb1/2.0.0-SNAPSHOT/go2cloud-jhb1-2.0.0-20140919.023304-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/provider/go2cloud-jhb1/2.0.0-SNAPSHOT/go2cloud-jhb1-2.0.0-20140919.023304-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

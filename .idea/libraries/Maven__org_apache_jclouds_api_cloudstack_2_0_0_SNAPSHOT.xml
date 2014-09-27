@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.jclouds.api:cloudstack:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/api/cloudstack/2.0.0-SNAPSHOT/cloudstack-2.0.0-20140919.014044-48.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/api/cloudstack/2.0.0-SNAPSHOT/cloudstack-2.0.0-20140919.014044-48-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/api/cloudstack/2.0.0-SNAPSHOT/cloudstack-2.0.0-20140919.014044-48-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

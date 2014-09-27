@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.jclouds:jclouds-loadbalancer:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/jclouds-loadbalancer/2.0.0-SNAPSHOT/jclouds-loadbalancer-2.0.0-20140919.013234-48.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/jclouds-loadbalancer/2.0.0-SNAPSHOT/jclouds-loadbalancer-2.0.0-20140919.013234-48-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/jclouds/jclouds-loadbalancer/2.0.0-SNAPSHOT/jclouds-loadbalancer-2.0.0-20140919.013234-48-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
